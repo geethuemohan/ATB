@@ -1,0 +1,35 @@
+ATB Corporate WordPress Theme
+
+A professional WordPress theme for the ATB Corporate India-UAE cross-border advisory firm.
+
+FEATURES:
+- Responsive design with mobile-first approach
+- Custom post types for Services and Insights
+- Dropdown navigation menus
+- Hero sections with breadcrumbs
+- Related content sections
+- Floating action button for contact
+- Optimized footer with contact details
+- Accessibility-first HTML structure
+- Integration with existing CSS and JavaScript
+
+INSTALLATION:
+1. Upload the wordpress-theme folder to /wp-content/themes/
+2. Rename the folder to 'atb-corporate'
+3. Go to Appearance > Themes and activate 'ATB Corporate'
+4. Set up navigation menus under Appearance > Menus
+5. Import your existing pages and posts
+
+SETUP:
+1. Create your main navigation menu and assign it to Primary Menu location
+2. Create custom pages for About, Services, Insights, Contact
+3. Create Service pages using the Service post type
+4. Create Insight posts using the Insight post type
+5. Customize the footer contact information in the footer.php template
+
+POST TYPES:
+- Services (atb_service) - For service offerings
+- Insights (atb_insight) - For blog posts and research articles
+
+CUSTOM TAXONOMIES:
+- Insight Categories - For organizing insights by category

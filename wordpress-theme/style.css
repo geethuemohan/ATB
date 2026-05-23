@@ -1,0 +1,19 @@
+/*
+Theme Name: ATB Corporate
+Theme URI: https://atbcorporate.com
+Author: ATB Corporate
+Author URI: https://atbcorporate.com
+Description: WordPress theme for ATB Corporate India-UAE cross-border advisory firm
+Version: 1.0.0
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: atb-corporate
+Domain Path: /languages
+
+== Description ==
+ATB Corporate is a specialist WordPress theme built for India-UAE cross-border advisory practices.
+It includes responsive design, modern navigation, and optimized templates for services and insights.
+*/
+
+/* This file is intentionally minimal.
+   Import main styles from assets/atb-styles.css in functions.php */
